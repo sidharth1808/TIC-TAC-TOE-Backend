@@ -1,2 +1,6 @@
-package com.pm.tictac.models;public enum PlayerType {
+package com.pm.tictac.models;
+
+public enum PlayerType {
+    HUMAN,
+    BOT
 }
